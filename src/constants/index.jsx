@@ -61,7 +61,7 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "AI-Powered Snippet Generation",
+    text: "AI-Powered Snippet",
     description:
       "Type what you need in plain English, and our AI instantly generates optimized, ready-to-use code snippets.",
   },
